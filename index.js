@@ -14,8 +14,8 @@ let http = require('https');
 //     CONFIGS
 //------------------------------------
 const config = {
-  channelAccessToken: 'wU8poi/Kbn65wNDdhVhOuSm3F1vezvLqJN0mZpBT05QaUSMmw8e4567rjLLfJT1D/UZ8pPoTEn08XZfesbRFgfGT6qJvMVK0IyNDrt5M6bEwtfV60RuuLtyViMuPxEPF3UicL4FCt47dQxwaeeBl1wdB04t89/1O/w1cDnyilFU=',
-  channelSecret: '40d54934c5ee5dd9b10ef6ec34f80a34',
+  channelAccessToken: 'TOKEN',
+  channelSecret: 'SECRET',
 };
 
 //------------------------------------
